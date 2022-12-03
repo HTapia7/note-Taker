@@ -1,9 +1,10 @@
 # Note Taker Application 
 
-![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/soliditize/Desktop/noteTaker%202/Develop/images/Screenshot%202022-12-02%20at%2011.39.26%20PM.png?version%3D1670053437637)
+<img width="1512" alt="Screenshot 2022-12-02 at 11 39 26 PM" src="https://user-images.githubusercontent.com/112591915/205430866-80b43f6c-6807-4984-b9c3-fbf6caf7e133.png">
 
 
-![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/soliditize/Desktop/noteTaker%202/Develop/images/Screenshot%202022-12-02%20at%2011.40.43%20PM.png?version%3D1670053454970)
+<img width="1512" alt="Screenshot 2022-12-02 at 11 40 43 PM" src="https://user-images.githubusercontent.com/112591915/205430883-7a9c6024-a0d0-4b5e-9687-67540006efb3.png">
+
 
 # Acceptance Criteria 
 
