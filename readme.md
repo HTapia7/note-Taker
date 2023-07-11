@@ -27,3 +27,4 @@
 - Bootstrap 
 - NODE 
 - EXPRESS
+- JavaScript 
